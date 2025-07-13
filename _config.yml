@@ -6,6 +6,6 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: true
   repository_url: https://github.com/testing-this-a/testing-this-a
-  document_url: https://github.com/testing-this-a/test1
+  document_url: https://github.com/testing-this-a/testing-this-a.github.io
 gems:
   - jekyll-mentions
